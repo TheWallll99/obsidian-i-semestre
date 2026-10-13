@@ -1,4 +1,4 @@
 Definizione algebrica di limite:
 $$
-\forall e\psi lon
+\forall \epsilon
 $$
