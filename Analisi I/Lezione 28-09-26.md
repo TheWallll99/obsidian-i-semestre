@@ -37,7 +37,7 @@ $(\arcsin x)',(\arccos x)'=\pm\frac{1}{\sqrt{ 1-x^2 }}$
 
 ## LIMITI
 $$
-\forall \epsilon>0 \exists \delta>0:0<|x-x_{0}|<\theta\Rightarrow|f(x)-L|<\epsilon
+\forall \epsilon>0, \exists \delta>0:0<|x-x_{0}|<\theta\Rightarrow|f(x)-L|<\epsilon
 $$
 Il limite può non essere definito in: salti, esplosioni in segni opposti e oscillazioni infinite.
 Operazioni con l'infinito:
