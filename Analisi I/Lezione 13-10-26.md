@@ -1,4 +1,4 @@
 Definizione algebrica di limite:
 $$
-\forall \epsilon
+\forall \epsilon>0
 $$
