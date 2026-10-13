@@ -1,0 +1,4 @@
+Definizione algebrica di limite:
+$$
+
+$$
