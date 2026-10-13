@@ -2,4 +2,4 @@
 $$
 \forall \epsilon>0, \exists \delta>0:\forall x \in D,0<|x-x_{0}|<\delta \Rightarrow |f(x)-l|<\epsilon
 $$
-Se f
+Se f è uniformemente continua su X, a
