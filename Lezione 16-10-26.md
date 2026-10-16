@@ -8,4 +8,4 @@ Si differenzia dalla variazione vera ($\Delta$) perché questa analizza la varia
 $\Delta f=f(x_{0}+h)-f(x_{0})$
 $df=f'(x_{0})\cdot h$ 
 e per h piccolo questi valori sono quasi uguali.
-In sostanza, il differenziale può essere 
+In sostanza, il differenziale può essere utilizzato per stimare alcuni valori in un punto.
