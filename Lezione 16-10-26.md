@@ -1,2 +1,3 @@
 ## IL DIFFERENZIALE
-Il differenziale analizza 
+Il differenziale analizza la pendenza x lo spostamento in un intervallo molto piccolo. 
+la formula è $$
