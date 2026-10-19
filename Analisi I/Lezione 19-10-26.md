@@ -21,4 +21,4 @@ DERIVATE IMMEDIATE:
 	$e^x \rightarrow e^x$
 	$a^x \rightarrow a^x\cdot \ln a$ 
 	$\ln x\rightarrow \frac{1}{x}$
-	$\sin x \righta$
+	$\sin x \rightarrow \cos x$
