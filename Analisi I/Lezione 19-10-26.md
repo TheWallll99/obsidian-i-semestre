@@ -26,3 +26,4 @@ DERIVATE IMMEDIATE:
 	$\tan x \rightarrow \frac{1}{\cos^2x}$
 	$\arctan x \rightarrow \frac{1}{1+x^2}$
 	$\arcsin x \rightarrow \frac{1}{\sqrt{1-x^2}}$
+	
