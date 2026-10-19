@@ -23,4 +23,4 @@ DERIVATE IMMEDIATE:
 	$\ln x\rightarrow \frac{1}{x}$
 	$\sin x \rightarrow \cos x$
 	$\cos x \rightarrow -\sin x$
-	
+	$\tan x \rightarrow \frac{1}{\cos^2x}$
