@@ -29,4 +29,4 @@ DERIVATE IMMEDIATE:
 REGOLE DI CALCOLO:
 	Somma: $(f+g)' =f'+g'$
 	Prodotto: $(fg)'=f'g+fg'$
-	Quoziente: $(f/g)'= \frac{}$
+	Quoziente: $(f/g)'= \frac{f'g}$
