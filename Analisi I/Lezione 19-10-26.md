@@ -6,3 +6,7 @@ Prendendo due punti sul grafico: $x_{0}$ e $x_{0}+h$ (h è l'incremento), La pen
 $$
 \frac{f(x_{0}+h)-f(x_{0})}{h} 
 $$
+facendo tendere h a 0, la retta diventa tangente:
+$$
+
+$$
