@@ -16,4 +16,4 @@ I punti in cui una funzione non è derivabile sono tre:
 	Cuspidi: Le pendenze tendono da una parte a $+\infty$ e dall'altra a $-\infty$
 	Flesso a Tangente Verticale: La derivata tende a $\pm \infty$ 
 DERIVATE IMMEDIATE:
-	
+	$$
