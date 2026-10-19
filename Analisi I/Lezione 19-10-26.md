@@ -19,4 +19,4 @@ DERIVATE IMMEDIATE:
 	$c \rightarrow 0$
 	$x^n \rightarrow nx^{n-1}$
 	$e^x \rightarrow e^x$
-	
+	$a^x \rightarrow a^x\cdot \ln a$ 
