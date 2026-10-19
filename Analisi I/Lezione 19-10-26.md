@@ -8,5 +8,5 @@ $$
 $$
 facendo tendere h a 0, la retta diventa tangente:
 $$
-
+\lim_{ h \to \infty } 
 $$
