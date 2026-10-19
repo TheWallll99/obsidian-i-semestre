@@ -1,3 +1,5 @@
 ## DERIVATE
 La derivata misura quanto velocemente cambia una funzione in un punto. Geometricamente è la retta tangente al grafico in un punto $x_{0}$.
 
+DEFINIZIONE
+Prendendo due punti sul grafico
