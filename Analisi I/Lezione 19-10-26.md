@@ -31,6 +31,7 @@ REGOLE DI CALCOLO:
 	Prodotto: $(fg)'=f'g+fg'$
 	Quoziente: $(f/g)'= \frac{f'g-fg'}{g^2}$
 	Funzioni composte: $(f(g(x)))'=f'(g(x))\cdot g'(x)$
+	Funzione inversa: <iostream>
 TEOREMI:
 	Fermat: Se $x_{0}$ è un punto di massimo o minimo relativo, e la funzione è derivabile in $x_{0}$, allora $f'(x_{0})=0$
 	Rolle: Se f è continua e derivabile in $[a,b]$ e $f(a)=f(b)$, esiste almeno un punto c tale che $f'(c)=0$
