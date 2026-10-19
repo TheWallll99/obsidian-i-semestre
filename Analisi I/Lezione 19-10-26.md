@@ -17,4 +17,4 @@ I punti in cui una funzione non è derivabile sono tre:
 	Flesso a Tangente Verticale: La derivata tende a $\pm \infty$ 
 DERIVATE IMMEDIATE:
 	$c \rightarrow 0$
-	$x^n \r$
+	$x^n \rightarrow$
