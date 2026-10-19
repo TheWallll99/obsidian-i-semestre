@@ -8,5 +8,5 @@ $$
 $$
 facendo tendere h a 0, la retta diventa tangente:
 $$
-\lim_{ h \to 0 } \frac{f(x_{0+h})} 
+\lim_{ h \to 0 } \frac{f(x_{0}+h)-} 
 $$
