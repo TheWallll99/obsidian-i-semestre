@@ -22,3 +22,4 @@ DERIVATE IMMEDIATE:
 	$a^x \rightarrow a^x\cdot \ln a$ 
 	$\ln x\rightarrow \frac{1}{x}$
 	$\sin x \rightarrow \cos x$
+	$c$
