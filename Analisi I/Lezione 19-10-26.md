@@ -14,4 +14,4 @@ Se questo limite è definito allora la funzione $f$ è derivabile in $x_{0}$ Se 
 I punti in cui una funzione non è derivabile sono tre:
 	Punti Angolosi: derivata destra e sinistra sono diverse.
 	Cuspidi: Le pendenze tendono da una parte a $+\infty$ e dall'altra a $-\infty$
-	Flesso a Tangente Verticale
+	Flesso a Tangente Verticale: La derivata tende a 
