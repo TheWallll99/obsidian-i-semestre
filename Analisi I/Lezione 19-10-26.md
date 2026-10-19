@@ -3,3 +3,6 @@ La derivata misura quanto velocemente cambia una funzione in un punto. Geometric
 
 DEFINIZIONE
 Prendendo due punti sul grafico: $x_{0}$ e $x_{0}+h$ (h è l'incremento), La pendenza della retta secante che li congiunge è il **rapporto incrementale**:
+$$
+
+$$
