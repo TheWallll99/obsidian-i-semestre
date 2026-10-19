@@ -18,4 +18,5 @@ I punti in cui una funzione non è derivabile sono tre:
 DERIVATE IMMEDIATE:
 	$c \rightarrow 0$
 	$x^n \rightarrow nx^{n-1}$
-	$e^x \rightarrow$
+	$e^x \rightarrow e^x$
+	
