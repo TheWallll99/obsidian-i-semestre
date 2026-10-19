@@ -11,3 +11,4 @@ $$
 \lim_{ h \to 0 } \frac{f(x_{0}+h)-f(x_{0})}{h} 
 $$
 Se questo limite è definito allora la funzione $f$ è derivabile in $x_{0}$ Se f è derivabile in $x_{0}$ allora è continua in $x_{0}$, NON il contrario. 
+I punti in cui una funzione non è derivabile 
