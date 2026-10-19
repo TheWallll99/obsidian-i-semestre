@@ -8,5 +8,5 @@ $$
 $$
 facendo tendere h a 0, la retta diventa tangente:
 $$
-\lim_{ h \to 0 } 
+\frac{\lim_{ h \to 0 }}{} 
 $$
