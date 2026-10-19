@@ -24,4 +24,4 @@ DERIVATE IMMEDIATE:
 	$\sin x \rightarrow \cos x$
 	$\cos x \rightarrow -\sin x$
 	$\tan x \rightarrow \frac{1}{\cos^2x}$
-	$\arctan x \rightarrow$
+	$\arctan x \rightarrow \frac{1}{1+x^2}$
