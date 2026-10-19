@@ -28,4 +28,4 @@ DERIVATE IMMEDIATE:
 	$\arcsin x \rightarrow \frac{1}{\sqrt{1-x^2}}$
 REGOLE DI CALCOLO:
 	Somma: $(f+g)' =f'+g'$
-	
+	Prodotto: ()
