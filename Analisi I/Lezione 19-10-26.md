@@ -30,4 +30,4 @@ REGOLE DI CALCOLO:
 	Somma: $(f+g)' =f'+g'$
 	Prodotto: $(fg)'=f'g+fg'$
 	Quoziente: $(f/g)'= \frac{f'g-fg'}{g^2}$
-	Funzioni composte: $(f(g(x)))'=f'(g(x))$
+	Funzioni composte: $(f(g(x)))'=f'(g(x))+g'(x)$
