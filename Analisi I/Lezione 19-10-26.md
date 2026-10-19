@@ -32,4 +32,5 @@ REGOLE DI CALCOLO:
 	Quoziente: $(f/g)'= \frac{f'g-fg'}{g^2}$
 	Funzioni composte: $(f(g(x)))'=f'(g(x))\cdot g'(x)$
 TEOREMI:
-	Fermat: Se $x_{0}$ è un punto di massimo o minimo relativo, e la derivata in quel punto 
+	Fermat: Se $x_{0}$ è un punto di massimo o minimo relativo, e la funzione è derivabile in $x_{0}$, allora $f'(x_{0})=0$
+	
