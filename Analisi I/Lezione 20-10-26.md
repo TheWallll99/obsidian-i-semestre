@@ -28,4 +28,5 @@ MONOTONIA, MASSIMI E MINIMI:
 			Cuspide: derivate laterali $\pm \infty$ opposte.
 			Flesso a tangente verticale: derivate laterali $\pm \infty$ uguali.
 	Meglio calcolare anche il valore di f(x) per ogni punto stazionario o critico in modo da poter disegnare il grafico.
-	
+CONCAVITA' E FLESSI:
+	Si calcolano calcolando la derivata seconda: 
