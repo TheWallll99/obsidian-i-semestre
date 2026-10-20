@@ -27,3 +27,4 @@ MONOTONIA, MASSIMI E MINIMI:
 			Punto angoloso: derivate laterali finite ma diverse.
 			Cuspide: derivate laterali $\pm \infty$ opposte.
 			Flesso a tangente verticale: derivate laterali $\pm \infty$ uguali.
+	Meglio calcolare anche il valore di f(x) per ogni punto stazionario o critico in modo da poter disegnare il grafico
