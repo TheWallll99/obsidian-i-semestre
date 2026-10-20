@@ -34,4 +34,4 @@ CONCAVITA' E FLESSI:
 		$f''(x)>0$, concavità verso l'alto (U)
 		$f''(x)<0$, concavità verso il basso ($\cap$)
 		Dove cambia segno si ha un punto di flesso. 
-	La derivata seconda, se ciò che si è trovato prima basta a capire la forma del grafico, s
+	La derivata seconda, se ciò che si è trovato prima basta a capire la forma del grafico, spes
