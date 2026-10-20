@@ -23,4 +23,5 @@ MONOTONIA, MASSIMI E MINIMI:
 		 Da - a + : minimo
 		 Se non cambia pendenza: flesso a tan orizzontale.
 	Nei punti di non derivabilità:
-	
+		Si controllano i limiti destro e sinistro di f':
+		
