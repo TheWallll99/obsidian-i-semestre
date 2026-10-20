@@ -10,4 +10,5 @@ SIMMETRIE E PERIODICITA':
 INTERSEZIONI CON GLI ASSI:
 	Per l'asse y: si pone $x = 0$
 	Per l'asse x: si pone $y = 0$
+	Per la positività: si risolve $f(x)\geq 0$
 	
