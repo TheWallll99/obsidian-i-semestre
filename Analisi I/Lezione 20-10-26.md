@@ -30,4 +30,5 @@ MONOTONIA, MASSIMI E MINIMI:
 	Meglio calcolare anche il valore di f(x) per ogni punto stazionario o critico in modo da poter disegnare il grafico.
 CONCAVITA' E FLESSI:
 	Si calcolano calcolando la derivata seconda: 
-		Si studia il segno e si analizza
+		Si studia il segno e si analizza: 
+		
