@@ -25,4 +25,4 @@ MONOTONIA, MASSIMI E MINIMI:
 	Nei punti di non derivabilità:
 		Si controllano i limiti destro e sinistro di f':
 			Punto angoloso: derivate laterali finite ma diverse.
-			Cuspide: derivate laterali $\pm \infty$
+			Cuspide: derivate laterali $\pm \infty$ opposti
