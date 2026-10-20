@@ -21,4 +21,4 @@ MONOTONIA, MASSIMI E MINIMI:
 		 Prima si pone $f'(x)=0$, in modo tale da individuare i **punti stazionari** (dove la derivata cambia di pendenza). e poi si studia il segno:
 		 Da + a - : massimo
 		 Da - a + : minimo
-		 Se non cambia pendenza
+		 Se non cambia pendenza: flesso a 
