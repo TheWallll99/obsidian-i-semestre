@@ -4,4 +4,5 @@ DOMINIO:
 Trovare per quali x la funzione ha senso. i buchi e gli estremi del dominio saranno quelli che interesseranno i limiti.
 SIMMETRIE E PERIODICITA':
 Funzione pari: $f(-x)=f(x) \rightarrow$ grafico simmetrico rispetto alle ordinate.
-Funzione dispari: $f(-x)=-f(x)\rightarrow$ 
+Funzione dispari: $f(-x)=-f(x)\rightarrow$ simmetria rispetto all'origine.
+Periodic
