@@ -1,4 +1,4 @@
 ## STUDIO DI FUNZIONE
 I passi per fare uno studio di funzione sono:
 DOMINIO:
-Trovare p
+Trovare per quali 
