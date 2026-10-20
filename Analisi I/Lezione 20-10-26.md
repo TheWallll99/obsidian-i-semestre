@@ -12,4 +12,4 @@ INTERSEZIONI CON GLI ASSI:
 	Per l'asse x: si pone $y = 0$
 	Per la positività: si risolve $f(x)\geq 0$
 LIMITI:
-	Si calcolano agli estremi di ogni intervallo trovato nel dominio, a $$
+	Si calcolano agli estremi di ogni intervallo trovato nel dominio, a $\pm \infty$
