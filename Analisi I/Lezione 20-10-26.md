@@ -5,4 +5,4 @@ Trovare per quali x la funzione ha senso. i buchi e gli estremi del dominio sara
 SIMMETRIE E PERIODICITA':
 Funzione pari: $f(-x)=f(x) \rightarrow$ grafico simmetrico rispetto alle ordinate.
 Funzione dispari: $f(-x)=-f(x)\rightarrow$ simmetria rispetto all'origine.
-Periodica
+Periodica: $f$
