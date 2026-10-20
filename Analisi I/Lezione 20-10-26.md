@@ -18,4 +18,5 @@ LIMITI:
 	Asintoto obliquo (esiste solo se non c'è quello orizzontale dalla stessa parte): $m = \lim_{ x \to \infty }\frac{f(x)}{x}$, $q = \lim_{ x \to \infty }[f(x)-mx]$. Se m è finito e diverso da 0 e q è finito, l'asintoto è y = mx + q.
 MONOTONIA, MASSIMI E MINIMI: 
 	Si calcolano calcolando la derivata prima e specificandone il dominio, poi studiandone il segno con una tabella: 
-		 Prima si pone $f'(x)=0$, in modo tale da individuare i **punti stazionari** (dove la derivata cambia di pendenza). e poi si studia il segno
+		 Prima si pone $f'(x)=0$, in modo tale da individuare i **punti stazionari** (dove la derivata cambia di pendenza). e poi si studia il segno:
+		 
