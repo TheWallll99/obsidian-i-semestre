@@ -33,4 +33,4 @@ CONCAVITA' E FLESSI:
 		Si studia il segno e si analizza: 
 		$f''(x)>0$, concavità verso l'alto (U)
 		$f''(x)<0$, concavità verso il basso ($\cap$)
-		Dove camv
+		Dove cambia segno si ha un p
