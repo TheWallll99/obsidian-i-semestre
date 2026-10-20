@@ -13,4 +13,4 @@ INTERSEZIONI CON GLI ASSI:
 	Per la positività: si risolve $f(x)\geq 0$
 LIMITI:
 	Si calcolano agli estremi di ogni intervallo trovato nel dominio, a $\pm \infty$ e nei punti esclusi.
-	Asintoto verticale: esiste se per $xrightarrow$
+	Asintoto verticale: esiste se per $x \rightarrow$
