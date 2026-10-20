@@ -19,3 +19,4 @@ LIMITI:
 MONOTONIA, MASSIMI E MINIMI: 
 	Si calcolano calcolando la derivata prima e specificandone il dominio, poi studiandone il segno con una tabella: 
 		 Prima si pone $f'(x)=0$, in modo tale da individuare i **punti stazionari** (dove la derivata cambia di pendenza). e poi si studia il segno:
+		 Da 
