@@ -26,4 +26,4 @@ MONOTONIA, MASSIMI E MINIMI:
 		Si controllano i limiti destro e sinistro di f':
 			Punto angoloso: derivate laterali finite ma diverse.
 			Cuspide: derivate laterali $\pm \infty$ opposte.
-			Flesso a tangente verticale: derivate laterali $\pm \infty$ uguali
+			Flesso a tangente verticale: derivate laterali $\pm \infty$ uguali.
