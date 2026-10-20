@@ -31,4 +31,4 @@ MONOTONIA, MASSIMI E MINIMI:
 CONCAVITA' E FLESSI:
 	Si calcolano calcolando la derivata seconda: 
 		Si studia il segno e si analizza: 
-		$f'$
+		$f''(x)$
