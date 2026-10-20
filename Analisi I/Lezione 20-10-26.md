@@ -8,5 +8,5 @@ SIMMETRIE E PERIODICITA':
 	Periodica: $f(x+T)=f(x)$ studiata su un periodo.
 	(se ci sono simmetrie, si può studiare solo per $x\geq 0$ e poi specchiare il tutto).
 INTERSEZIONI CON GLI ASSI:
-	Per l'asse y: si pone x = 0
+	Per l'asse y: si pone $x = 0
 	Per l'asse x: si pone y = 0
