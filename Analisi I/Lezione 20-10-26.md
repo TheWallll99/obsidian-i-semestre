@@ -14,4 +14,5 @@ INTERSEZIONI CON GLI ASSI:
 LIMITI:
 	Si calcolano agli estremi di ogni intervallo trovato nel dominio, a $\pm \infty$ e nei punti esclusi.
 	Asintoto verticale: esiste se per $x \rightarrow x_{0}$ il limite è $\pm \infty$.
-	Asintoto orizzontale: esiste se per $x \rightarrow \pm \infty$ il limite è un numero finito L
+	Asintoto orizzontale: esiste se per $x \rightarrow \pm \infty$ il limite è un numero finito L.
+	
