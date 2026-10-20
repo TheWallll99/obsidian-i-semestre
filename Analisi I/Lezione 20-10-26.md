@@ -17,4 +17,5 @@ LIMITI:
 	Asintoto orizzontale: esiste se per $x \rightarrow \pm \infty$ il limite è un numero finito L.
 	Asintoto obliquo (esiste solo se non c'è quello orizzontale dalla stessa parte): $m = \lim_{ x \to \infty }\frac{f(x)}{x}$, $q = \lim_{ x \to \infty }[f(x)-mx]$. Se m è finito e diverso da 0 e q è finito, l'asintoto è y = mx + q.
 MONOTONIA, MASSIMI E MINIMI: 
-	Si calcolano calcolando la derivata prima e specificandone il dominio, poi studiandone il segno con una tabella
+	Si calcolano calcolando la derivata prima e specificandone il dominio, poi studiandone il segno con una tabella: 
+		
