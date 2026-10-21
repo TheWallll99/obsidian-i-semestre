@@ -29,7 +29,7 @@ int main(){
 
     printf("la dimensione di %s \212: %d \n", str1, size2);
 
-    int leng=strlen(str1); //restit
+    int leng=strlen(str1); //restituisce la lunghezza senza carattere di terminazion
 
     printf("la dimensione di %s, ancora una volta, \212: %d", str1, leng);
 
