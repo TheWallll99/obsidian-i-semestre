@@ -5,7 +5,7 @@ Gli array non possono essere trattati come variabili a loro stanti, ma hanno bis
 Le stringhe sono insiemi di caratteri. La differenza tra esse e un comune array di caratteri è che le stringhe hanno un carattere extra chiamato **terminatore di stringa** o **carattere di terminazione** (\0).
 
 ### codice:
-"#include<stdio.h>
+#include<stdio.h>
 
 #include<string.h> //per usare le cose strane con le stringhe pazze
 
