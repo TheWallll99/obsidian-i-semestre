@@ -1,2 +1,2 @@
 ## PUNTATORI
-Un puntatore è una variabile che punta all'indirizzo di un'altra variabile.
+Un puntatore è che punta all'indirizzo di un'altra variabile.
