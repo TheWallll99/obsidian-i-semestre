@@ -1,2 +1,2 @@
 ## PUNTATORI
-Un puntatore è una variabile che punta all'indirizzo di un'altra variabile. Occupa 8 byte e indica semplicemente il numero dell'indirizzo di 
+Un puntatore è una variabile che punta all'indirizzo di un'altra variabile. Occupa 8 byte e indica semplicemente il numero dell'indirizzo della variabile a cui punta.
