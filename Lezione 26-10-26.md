@@ -1,2 +1,2 @@
 ## ARRAY DI PUNTATORI
-Ogni casella dell'array contiene un puntatore, e possiamo avere anche array di array (le matrici sostanzialmente), in ognuna delle caselle dell'array ci sono altri array. Ad esempio, mat$[2][4]$ indica la seconda riga e la quarta colonna. La disposizione della memoria però non è bidimensionale, gli array sono disposti uno dopo l'altro.
+Ogni casella dell'array contiene un puntatore, e possiamo avere anche array di array (le matrici sostanzialmente), in ognuna delle caselle dell'array ci sono altri array. Ad esempio, mat$[2][4]$ indica la seconda riga e la quarta colonna. La disposizione della memoria però non è bidimensionale, gli array sono disposti uno dopo l'altro. Quando eseguo *(mat
