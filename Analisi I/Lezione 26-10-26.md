@@ -3,5 +3,5 @@ Se $\exists \lim_{ x \to 0}f(x)=0$ e $\exists \lim_{ x \to 0}g(x)=0$, esistono l
 
 ## Serie di Taylor
 $$
-f(x)=f(x_{0})+f'(x_{})
+f(x)=f(x_{0})+f'(x_{0})
 $$
