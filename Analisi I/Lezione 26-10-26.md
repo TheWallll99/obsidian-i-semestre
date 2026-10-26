@@ -1,2 +1,2 @@
 ## Teorema di de L'Hopital
-Se $\exists s$
+Se $\exists \lim_{ x \to 0}f(x)=0$
