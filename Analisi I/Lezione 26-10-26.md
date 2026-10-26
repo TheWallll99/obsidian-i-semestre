@@ -8,5 +8,5 @@ $$
 $f(x)$ è il valore nel punto, di ordine 0;
 $f'(x_{0})(x-x_{0})$ è la pendenza, di ordine 1;
 $\frac{f^{(n)}(x_{0})}{n!\cdot(x-x_{0})^n}$ è la curvatura, che per ogni aumento di grado (n) avvicina l'approssimazione a f(x);
-$R_n(x)$ 
+$R_n(x)$ è il resto, l'e
 
