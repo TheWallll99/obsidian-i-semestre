@@ -1,6 +1,7 @@
 ## ARRAY DI PUNTATORI
 Ogni casella dell'array contiene un puntatore, e possiamo avere anche array di array (le matrici sostanzialmente), in ognuna delle caselle dell'array ci sono altri array. Ad esempio, mat$[2][4]$ indica la seconda riga e la quarta colonna. La disposizione della memoria però non è bidimensionale, gli array sono disposti uno dopo l'altro. Quando eseguo mat$[1]$ = $*$(mat+1), in memoria, sto avanzando di un intero array.
-#### Codice: #include<stdio.h>
+#### Codice:
+#include<stdio.h>
 
 int main(){
 
