@@ -10,5 +10,5 @@ $f'(x_{0})(x-x_{0})$ è la pendenza, di ordine 1;
 $\frac{f^{(n)}(x_{0})}{n!\cdot(x-x_{0})^n}$ è la curvatura, che per ogni aumento di grado (n) avvicina l'approssimazione a f(x);
 $R_n(x)$ è il resto, l'errore che resta fermandosi al grado n.
 
-L'errore può essere usato con la formula di Lagrange: $R_{n}()$
+L'errore può essere usato con la formula di Lagrange: $R_{n}(x)$
 
