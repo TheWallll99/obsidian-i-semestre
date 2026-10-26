@@ -13,5 +13,5 @@ $R_n(x)$ è il resto, l'errore che resta fermandosi al grado n.
 L'errore può essere usato con la formula di Lagrange: 
 $R_{n}(x)=\frac{f^{(n+1)}(ξ)}{(n+1)!\cdot(x-x_{0})^{n+1}}$ con cui si stima l'errore in modo concreto.
 
-La serie di Taylor è utile, ad esempio, nei limiti molto complicati (in cui si possono sostituire le funzioni con i polinomi di taylor), la stima di valori con errore controllato e lo studio di punti stazionari
+La serie di Taylor è utile, ad esempio, nei limiti molto complicati (in cui si possono sostituire le funzioni con i polinomi di taylor), la stima di valori con errore controllato e lo studio di punti stazionari.
 
