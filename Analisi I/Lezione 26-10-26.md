@@ -8,3 +8,4 @@ $$
 $f(x)$ è il valore nel punto, di ordine 0;
 $f'(x_{0})(x-x_{0})$ è la pendenza, di ordine 1;
 $\frac{f^{(n)}(x_{0})}{n!\cdot(x-x_{0})^n}$
+
