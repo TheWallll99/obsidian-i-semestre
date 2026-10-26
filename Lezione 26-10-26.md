@@ -1,2 +1,2 @@
 ## ARRAY DI PUNTATORI
-Ogni casella dell'array contiene un puntatore
+Ogni casella dell'array contiene un puntatore, 
