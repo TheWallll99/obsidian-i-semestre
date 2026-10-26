@@ -11,5 +11,5 @@ $\frac{f^{(n)}(x_{0})}{n!\cdot(x-x_{0})^n}$ è la curvatura, che per ogni aument
 $R_n(x)$ è il resto, l'errore che resta fermandosi al grado n.
 
 L'errore può essere usato con la formula di Lagrange: 
-$R_{n}(x)=f^{(n+1)}()$ 
+$R_{n}(x)=f^{(n+1)}(\E \psi lon)$ 
 
