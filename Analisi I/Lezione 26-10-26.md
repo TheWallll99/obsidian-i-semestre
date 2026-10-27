@@ -3,7 +3,7 @@ Se $\exists \lim_{ x \to 0}f(x)=0$ e $\exists \lim_{ x \to 0}g(x)=0$, esistono l
 
 ## Serie di Taylor
 $$
-f(x)=f(x_{0})+f'(x_{0})(x-x_{0})+\frac{f''(x_{0})}{2!}\cdot(x-x_{0})^2 + \cdots + \frac{f^{(n)}(x_{0})}{n!}!\cdot(x-x_{0})^n + R_n(x)
+f(x)=f(x_{0})+f'(x_{0})(x-x_{0})+\frac{f''(x_{0})}{2!}\cdot(x-x_{0})^2 + \cdots + \frac{f^{(n)}(x_{0})}{n!}\cdot(x-x_{0})^n + R_n(x)
 $$
 $f(x)$ è il valore nel punto, di ordine 0;
 $f'(x_{0})(x-x_{0})$ è la pendenza, di ordine 1;
