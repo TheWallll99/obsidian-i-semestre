@@ -1,1 +1,2 @@
+- La funzione scanf() chiede sempre gli indirizzi (& o puntatori)
 - 
