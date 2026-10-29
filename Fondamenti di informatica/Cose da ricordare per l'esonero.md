@@ -1,2 +1,2 @@
 - La funzione scanf() chiede sempre gli indirizzi (& o puntatori)
-- 
+- Per specificare il numero n dei decimali di un float si fa %.nf
