@@ -1,5 +1,6 @@
 ## Tipi di dato
 Vanno scritti prima del main. Sono:
 enum: è un tipo di dato costruito specificando tutti i possibili valori che può assumere (enum var {do, re, mi, fa, sol, la, si});
-array: 
+array: vabbè li sappiamo
+struct: come in c++
 
