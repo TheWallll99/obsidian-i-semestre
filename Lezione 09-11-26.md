@@ -1,2 +1,2 @@
 ## Tipi di dato
-enum: 
+enum: è un tipo di dato
