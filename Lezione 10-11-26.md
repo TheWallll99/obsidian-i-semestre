@@ -1,2 +1,2 @@
 ## Funzioni convesse e rette secanti
-Ogni funzione 
+Ogni funzione convessa ha
