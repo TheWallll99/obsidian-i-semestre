@@ -1,1 +1,1 @@
-## Funzioni convesse e s
+## Funzioni convesse e rette secanti
