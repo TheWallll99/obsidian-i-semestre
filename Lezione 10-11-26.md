@@ -1,2 +1,2 @@
 ## Funzioni convesse e rette secanti
-Ogni funzione convessa ha delle rette secanti che si trovano sopra o sotto di essa in base a dove sta la convessità: Se è verso l'alto allora saranno sopra, altrimenti se è verso il basso sa
+Ogni funzione convessa ha delle rette secanti che si trovano sopra o sotto di essa in base a dove sta la convessità: Se è verso l'alto allora saranno sopra, altrimenti se è verso il basso saranno sotto.
